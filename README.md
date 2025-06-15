@@ -56,5 +56,3 @@ Summary, Orders, Holdings, Positions, Funds, Apps, WatchList
 
 🎯 Project Outcome:
 ZERODHA-CLONE showcases your proficiency in modern frontend development, UI replication, and interactive dashboard building. It serves as a complete package for learning and demonstrating professional React development and trading platform architecture.
-
-Live Link Frontedn : zerodha-frontend-only.netlify.app
