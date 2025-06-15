@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Custom cursors for red and green candle arrows */
+body {
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="30" fill="green" viewBox="0 0 24 24"><polygon points="12,2 15,8 9,8" /></svg>') 12 12, auto;
+}
+
+/* On hover, switch to green candle cursor */
+a:hover, button:hover, .nav-link:hover {
+  cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="30" fill="red" viewBox="0 0 24 24"><polygon points="12,2 15,8 9,8" /></svg>') 12 12, auto;
+}
