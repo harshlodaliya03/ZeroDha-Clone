@@ -1,8 +1,9 @@
 🚀 Project Summary: ZERODHA-CLONE
+
 🔍 Description:
 ZERODHA-CLONE is a fully responsive clone of the Zerodha homepage and dashboard, built using modern web technologies. It replicates both the landing page UI/UX and dashboard functionality of Zerodha, providing a realistic simulation of a trading platform.
 
-This project demonstrates advanced frontend skills including responsive design, routing, state management, and modular UI components.
+This project demonstrates advanced frontend skills, including responsive design, routing, state management, and modular UI components.
 
 🛠️ Tech Stack:
 React.js – Component-based UI development
